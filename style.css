@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    background-color: blanchedalmond;
+}
+
+h1 {
+    background-color: palevioletred;
+    padding: 5%;
+    text-align: center;
+}
+
+ul {
+    padding: 10%;
+}
+
+li {
+    padding: 10px;
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    color: gray;
+    font-size: larger;
+}
+
+li:hover {
+    background-color: palevioletred;
+    border-radius: 10px;
+}
