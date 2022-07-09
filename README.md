@@ -3,5 +3,5 @@
 
  Find the assignment website here: https://m-alkhudair.github.io/css-assignments-1-2-and-3/
 
- This is **NOT** the main CSS assignment; please find the main assignments GitHub repository here: https://github.com/m-alkhudair/css-assignment-4-main-project
+ This is **NOT** the main CSS assignment; please find the main assignment's GitHub repository here: https://github.com/m-alkhudair/css-assignment-4-main-project
 
